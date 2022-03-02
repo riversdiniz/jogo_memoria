@@ -82,8 +82,8 @@ a{
   }
 
   .front-face, .back-face {
-  width: 100%;
-  height: 100%;
+  width: 264px;
+  height: 323px;
   padding: 0px;
   position: absolute;
   border-radius: 10px;
