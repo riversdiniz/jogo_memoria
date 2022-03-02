@@ -86,7 +86,7 @@ a{
   height: 100%;
   padding: 20px;
   position: absolute;
-  border-radius: 5px;
+  border-radius: 1px;
   background: #1C7CCC;
   backface-visibility: hidden;  
 }
