@@ -84,7 +84,7 @@ a{
   .front-face, .back-face {
   width: 100%;
   height: 100%;
-  padding: 20px;
+  padding: 10px;
   position: absolute;
   border-radius: 1px;
   background: #1C7CCC;
